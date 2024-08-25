@@ -6,3 +6,4 @@
 *Larry Plotter y EL Malware de Fuego
 *Larry Plotter y La Orden de Uber Eats
 *Larry Plotter y El Misterio de Ron Whiskey
+*Larry Plotter y Los Commits de la Muerte
