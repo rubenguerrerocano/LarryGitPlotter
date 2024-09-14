@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de Larry Plotter.
 
-**Ruben Guerrero**
+**Ruben Guerrero**, Larry Plotter Lover
